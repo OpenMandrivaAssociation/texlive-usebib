@@ -1,11 +1,11 @@
-# revision 25686
+# revision 25969
 # category Package
 # catalog-ctan /macros/latex/contrib/usebib
-# catalog-date 2012-03-18 15:36:17 +0100
+# catalog-date 2012-04-13 23:54:56 +0200
 # catalog-license lppl1.3
-# catalog-version 1.0
+# catalog-version 1.0a
 Name:		texlive-usebib
-Version:	1.0
+Version:	1.0a
 Release:	1
 Summary:	A simple bibloography processor
 Group:		Publishing
