@@ -53,3 +53,15 @@ database.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0a-1
++ Revision: 813170
+- Update to latest release.
+
+* Tue Mar 27 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0-1
++ Revision: 787814
+- Import texlive-usebib
+- Import texlive-usebib
+
