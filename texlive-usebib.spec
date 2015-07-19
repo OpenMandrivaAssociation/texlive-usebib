@@ -6,7 +6,7 @@
 # catalog-version 1.0a
 Name:		texlive-usebib
 Version:	1.0a
-Release:	8
+Release:	9
 Summary:	A simple bibloography processor
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/usebib
