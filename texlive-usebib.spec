@@ -1,6 +1,6 @@
 Name:		texlive-usebib
 Version:	25969
-Release:	1
+Release:	2
 Summary:	A simple bibloography processor
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/usebib
