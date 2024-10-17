@@ -3,7 +3,7 @@ Version:	25969
 Release:	2
 Summary:	A simple bibloography processor
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/usebib
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/usebib
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/usebib.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/usebib.doc.r%{version}.tar.xz
